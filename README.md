@@ -1,4 +1,4 @@
-#React todo
+# React todo
 Simple doto app in react
 
 ## Available Scripts
